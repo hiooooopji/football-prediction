@@ -22,7 +22,7 @@ result-
 
 ...
 
-> **Note**: The table includes only a few matches. For the full list, refer to the dataset.
+> **Note**: The table includes only a few matches. For the full list, refer to the fif_world_cup_predictions.
 
 
 
