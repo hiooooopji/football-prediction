@@ -29,3 +29,7 @@ result-
 note:- this projects used limited datasets
 
 if u want to know more about this dm game8024 on discord
+
+any footballers dm what u think?
+
+time taken:-2 hours in total spaned over 4 days(i.e 30min a day)
